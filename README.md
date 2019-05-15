@@ -1,6 +1,14 @@
 # FB_360_image_generator
 360 image generator for Facebook
 
+## TODO
+1. make a package and upload to pypi
+1. stich image automatically
+1. add more parameters
+1. refactor
+
+
+
 ### Facebook's requirement:
 1. smaller than 6000 × 3000 pixels
 1. ratio: 
