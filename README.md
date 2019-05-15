@@ -1,7 +1,7 @@
 # FB_360_image_generator
 360 image generator for Facebook
 
-## Facebook requirement:
+## Facebook's requirement:
 * smaller than 6000 × 3000 pixels
 * ratio: 
     * 2:1
