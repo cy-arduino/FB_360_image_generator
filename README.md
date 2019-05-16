@@ -1,5 +1,5 @@
-# FB_360_image_generator
-360 image generator for Facebook
+# Panaroma converter for Facebook
+Panaroma converter for Facebook
 
 ## TODO
 1. make a package and upload to pypi
@@ -8,9 +8,12 @@
 1. add more parameters
 1. refactor
 
+## usage
+* input: A Panaroma image with Spherical projection
+* output: A Panaroma image that can be accepted by Facebook
 
 
-### requirements of Facebook's 360 image:
+### requirements of Facebook's Panaroma image:
 1. smaller than 6000 × 3000 pixels
 1. ratio: 
     * 2:1
