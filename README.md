@@ -1,5 +1,5 @@
-# Panaroma converter for Facebook
-Panaroma converter for Facebook
+# Panorama converter for Facebook
+Panorama converter for Facebook
 
 ## TODO
 1. make a package and upload to pypi
@@ -9,8 +9,8 @@ Panaroma converter for Facebook
 1. refactor
 
 ## usage
-* input: A Panaroma image with Spherical projection
-* output: A Panaroma image that can be accepted by Facebook
+* input: A Panorama image with Spherical projection
+* output: A Panorama image that can be accepted by Facebook
 
 
 ### requirements of Facebook's Panaroma image:
@@ -26,4 +26,4 @@ Panaroma converter for Facebook
 1. Get DJI Mavic's panorama images(34 pics)
 1. Stich images by Microsoft ICE(Image Composite Editor)
     * projection mode: Spherical
-1. Use FB_360_image_generator to generate a image that can be accepted by Facebook!
+1. Use this converter to generate a image that can be upload to Facebook directly!
