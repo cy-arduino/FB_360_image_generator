@@ -13,7 +13,7 @@ Panorama converter for Facebook
 * example: 
    * python convert.py examples\PANO0001_stitch.jpg -o out.jpg
 
-### requirements of Facebook's Panaroma image:
+### Requirements of Facebook's Panaroma image:
 * smaller than 6000 × 3000 pixels
 * ratio(width:height): 
    * 2:1
