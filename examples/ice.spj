@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stitchProject version="2.0" cameraMotion="automatic" computedCameraMotion="rotation3D" projection="spherical">
+  <vignetteCorrection redFactor="0.387096763" greenFactor="0.387096763" blueFactor="0.387096763" globalIntensityScale="1" />
+  <sourceImages>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0001.JPG">
+      <cameraPose yaw="74.452262449144229" pitch="88.1896960718566" roll="2.8580838405566462" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0002.JPG">
+      <cameraPose yaw="73.247175259598365" pitch="58.151616389006733" roll="0.78288157234435" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0003.JPG">
+      <cameraPose yaw="72.75029852089861" pitch="22.869670122457968" roll="0.31058490155261048" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0004.JPG">
+      <cameraPose yaw="72.843055647354689" pitch="-18.791364605429504" roll="-1.0750174974835627" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0005.JPG">
+      <cameraPose yaw="96.819975590893208" pitch="-3.4666725444885529" roll="-2.4046417453181634" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0006.JPG">
+      <cameraPose yaw="118.36702225185618" pitch="23.135195779943661" roll="0.17743274638770751" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0007.JPG">
+      <cameraPose yaw="113.66899552851002" pitch="-18.550933793436428" roll="-0.61976364522573679" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0008.JPG">
+      <cameraPose yaw="136.5588285202528" pitch="58.421309014099364" roll="1.1985795987558949" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0009.JPG">
+      <cameraPose yaw="133.89180181628052" pitch="-2.5858967024694532" roll="0.008975753656745496" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0010.JPG">
+      <cameraPose yaw="158.94066143416191" pitch="22.943611366105308" roll="0.26883193359818341" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0011.JPG">
+      <cameraPose yaw="154.93437033595484" pitch="-18.803699967124686" roll="-0.10283205346496399" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0012.JPG">
+      <cameraPose yaw="179.73564181606417" pitch="-3.8519433819003619" roll="-0.9508936633145374" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0013.JPG">
+      <cameraPose yaw="-160.96220189631026" pitch="58.369336099809018" roll="1.2406348826603122" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0014.JPG">
+      <cameraPose yaw="-164.10473641504635" pitch="22.676474197458784" roll="0.26376420780720694" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0015.JPG">
+      <cameraPose yaw="-164.18508476739527" pitch="-19.201854181648102" roll="0.18311009256772912" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0016.JPG">
+      <cameraPose yaw="-138.94764997777091" pitch="-4.0348240281499157" roll="-1.3556158726844296" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0017.JPG">
+      <cameraPose yaw="-118.53026042794077" pitch="22.9756782980233" roll="-0.078727908789536408" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0018.JPG">
+      <cameraPose yaw="-123.54211296463595" pitch="-19.069781965219267" roll="-0.2178538368563358" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0019.JPG">
+      <cameraPose yaw="-102.11876792141106" pitch="58.28340125977563" roll="0.70792134848429178" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0020.JPG">
+      <cameraPose yaw="-104.36125691982809" pitch="-2.9971958954063522" roll="-0.18989412398769545" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0021.JPG">
+      <cameraPose yaw="-79.614825995362509" pitch="22.79778116029156" roll="-0.0645212590246956" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0022.JPG">
+      <cameraPose yaw="-84.031774002992009" pitch="-19.074218833422755" roll="-0.48946781665544731" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0023.JPG">
+      <cameraPose yaw="-60.060611337213089" pitch="-3.6654954292456545" roll="-1.686559637115397" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0024.JPG">
+      <cameraPose yaw="-42.282666611172331" pitch="58.602669731173833" roll="0.36532190585720714" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0025.JPG">
+      <cameraPose yaw="-44.760670549696378" pitch="22.863920711754208" roll="-0.31861618513976681" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0026.JPG">
+      <cameraPose yaw="-44.604773573273839" pitch="-19.235393311240312" roll="0.038124346782540675" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0027.JPG">
+      <cameraPose yaw="-20.463922498063013" pitch="-3.697543132547533" roll="-1.7260312440093259" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0028.JPG">
+      <cameraPose yaw="-0.6597332526652504" pitch="23.149342540254018" roll="-0.056066813704591885" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0029.JPG">
+      <cameraPose yaw="-4.0309477602943682" pitch="-18.66302141588455" roll="-0.4111816998152108" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0030.JPG">
+      <cameraPose yaw="17.789512844676683" pitch="58.628630251228294" roll="0.822998628263299" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0031.JPG">
+      <cameraPose yaw="15.254686841318591" pitch="-2.7577923477917197" roll="0.01654132947926951" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0032.JPG">
+      <cameraPose yaw="39.855500848159785" pitch="23.247232837830694" roll="0.15200238133023156" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0033.JPG">
+      <cameraPose yaw="35.04328515090279" pitch="-18.761216460496055" roll="0.37685901646062103" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="G:\我的雲端硬碟\空拍\20190520 宜蘭\100_0060\PANO0034.JPG">
+      <cameraPose yaw="58.923652701028111" pitch="-3.8580331693471885" roll="-0.68851575651029173" angleUnit="degrees" focalLength="1.5424851112429081" tolerance="4" />
+    </sourceImage>
+  </sourceImages>
+</stitchProject>
