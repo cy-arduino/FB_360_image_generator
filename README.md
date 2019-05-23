@@ -4,9 +4,7 @@ Panorama converter for Facebook
 ## TODO
 1. make a package and upload to pypi
     * https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
-1. stich image automatically
-1. add more parameters
-1. refactor
+1. stich images automatically
 
 ## usage
 * convert.py [-h] [-o OUTPUTIMG] [-w IMGOUTWIDTH] [-b IMGBGCOLOR] inputImage
