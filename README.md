@@ -2,9 +2,9 @@
 Panorama converter for Facebook
 
 ## TODO
-1. make a package and upload to pypi
+1. Make a package and upload to pypi
     * https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
-1. stich images automatically
+1. Stitch images automatically
 
 ## usage
 * convert.py [-h] [-o OUTPUTIMG] [-w IMGOUTWIDTH] [-b IMGBGCOLOR] inputImage
@@ -24,5 +24,5 @@ Panorama converter for Facebook
 
 ### How to generate  Panorama image with Spherical projection
 1. Get DJI Mavic's panorama images(34 pics)
-1. Stich images by Microsoft ICE(Image Composite Editor)
+1. Stitch images by Microsoft ICE(Image Composite Editor)
     * projection mode: Spherical
