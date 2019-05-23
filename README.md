@@ -6,18 +6,17 @@ Panorama converter for Facebook
    * https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
 1. Stitch images automatically
 
-## usage
+## Usage
 * convert.py [-h] [-o OUTPUTIMG] [-w IMGOUTWIDTH] [-b IMGBGCOLOR] inputImage
    * inputImage: A Panorama image with Spherical projection
    * OUTPUTIMG: A Panorama image that can be accepted by Facebook
-* example: 
+* Example: 
    * python convert.py examples\PANO0001_stitch.jpg -o out.jpg
 
 ### Requirements of Facebook's Panaroma image:
-* smaller than 6000 × 3000 pixels
-* ratio(width:height): 
-   * 2:1
-* exif:
+* Image smaller than 6000×3000 pixels
+* Image ratio(width:height): 2:1
+* EXIF:
    * make: RICOH
    * model: RICOH THETA S
 
