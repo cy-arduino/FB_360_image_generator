@@ -3,6 +3,7 @@ Panorama converter for Facebook
 
 ## TODO
 1. Upload to pypi
+    * https://python-packaging.readthedocs.io/en/latest/minimal.html
 1. Add Stitch function
 
 ## Usage
