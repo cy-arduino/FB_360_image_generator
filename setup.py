@@ -47,5 +47,6 @@ setup(name='cy_panorama',
       author_email='',
       license='LGPL',
       packages=find_packages(exclude=['tests', 'test_*']),
+      scripts=['bin/panorama_convert_fb'],
       install_requires=requires,
       zip_safe=False)
