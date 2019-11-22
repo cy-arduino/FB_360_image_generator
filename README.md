@@ -5,7 +5,7 @@ Features:
 1. convert a panorama image to a Facebook supported format
 
 ## TODO
-1. Add Stitch function
+1. Support stitch feature
 
 ## Install
 `pip install cy_panorama`
