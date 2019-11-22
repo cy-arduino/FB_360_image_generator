@@ -1,6 +1,7 @@
 # cy_panorama
-a simple panorama tool
-feature:
+A simple panorama tool
+
+Features:
 1. convert a panorama image to a Facebook supported format
 
 ## TODO
@@ -10,7 +11,7 @@ feature:
 `pip install cy_panorama`
 
 ## Usage
-* `panorama_convert_fb input.jpg -o output.jpg`
+`panorama_convert_fb input.jpg -o output.jpg`
 
 ## Note
 Requirements of Facebook's Panaroma image:
