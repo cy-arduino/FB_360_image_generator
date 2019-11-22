@@ -60,16 +60,3 @@ class Panorama(object):
         exif_bytes = piexif.dump(exif)
 
         out_img.save(out_file, exif=exif_bytes)
-
-
-if __name__ == '__main__':
-    parser = ArgumentParser()
-    parser.add_argument("input_img", help="input image file name")
-    parser.add_argument("-o", "--output_img", help="output image file name",
-                        dest="output_img", default=None)
-    parser.add_argument("-b", "--bg_color", help="background color",
-                        dest="bg_color", default=None)
-    args = parser.parse_args()
-
-    p = Panorama(args.input_img)
-    p.convert_fb(args.output_img, args.bg_color)
