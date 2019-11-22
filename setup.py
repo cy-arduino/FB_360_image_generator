@@ -36,8 +36,7 @@ except subprocess.CalledProcessError:
     ver = DEFAULT_VERSION
 ver = convert_pypi_version(ver)
 
-with open('requirements') as f:
-    requires = [line.strip() for line in f]
+requires = ['Pillow', 'piexif']
 
 setup(name='cy_panorama',
       version=ver,
