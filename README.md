@@ -2,7 +2,7 @@
 A simple panorama tool
 
 Features:
-1. convert a panorama image(Spherical projection) to a Facebook supported format
+1. Convert a panorama image(spherical projection) to a Facebook supported format
 
 ## TODO
 1. Support stitch feature
@@ -20,4 +20,3 @@ Requirements of Facebook's Panaroma image:
 * EXIF contains:
    * make: RICOH
    * model: RICOH THETA S
-
