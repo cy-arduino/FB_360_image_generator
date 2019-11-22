@@ -17,5 +17,5 @@ if __name__ == '__main__':
               "%(filename)s:%(lineno)s %(name)s %(funcName)s() : %(message)s"
     logging.basicConfig(level=logging.DEBUG, format=LOG_FMT)
 
-    p = Panorama(args.input_img)
-    p.convert_fb(args.output_img, args.bg_color)
+    p = Panorama()
+    p.convert_fb(args.input_img, args.output_img, args.bg_color)
