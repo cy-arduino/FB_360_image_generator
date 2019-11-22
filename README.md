@@ -2,7 +2,7 @@
 A simple panorama tool
 
 Features:
-1. convert a panorama image to a Facebook supported format
+1. convert a panorama image(Spherical projection) to a Facebook supported format
 
 ## TODO
 1. Support stitch feature
