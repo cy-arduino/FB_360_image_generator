@@ -16,6 +16,10 @@ class Panorama(object):
         if img_file:
             self.reload_panorama(img_file)
 
+    def __del__(self):
+        if self.panorama:
+            self.panorama.close()
+
     def reload_panorama(self, img_file=None):
         try:
             self.panorama = Image.open(img_file)
