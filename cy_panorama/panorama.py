@@ -1,6 +1,5 @@
 import logging
 import piexif
-from argparse import ArgumentParser
 from PIL import Image
 
 

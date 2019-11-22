@@ -36,7 +36,7 @@ except subprocess.CalledProcessError:
     ver = DEFAULT_VERSION
 ver = convert_pypi_version(ver)
 
-with open('requirements.txt') as f:
+with open('requirements') as f:
     requires = [line.strip() for line in f]
 
 setup(name='cy_panorama',
